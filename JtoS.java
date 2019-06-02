@@ -14,11 +14,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.json.simple.parser.ParseException;
-
 class JtoS {
 
-	public static void main(String[] args) throws ParseException, InterruptedException {
+	public static void main(String[] args) throws  InterruptedException {
 
 		try {
 			while (true) {
